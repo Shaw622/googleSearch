@@ -1,5 +1,5 @@
 #! /usr/bin/env python3
-# lucky.py - Google 検索結果をいくつか開く
+# googleSearch.py - Google 検索結果をいくつか開く
 
 import requests, sys, webbrowser, bs4
 
